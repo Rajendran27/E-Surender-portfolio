@@ -539,7 +539,7 @@ main { overflow-x: hidden; }
 
 .stats-card .card-title strong {
   display: block;
-  color: var(--color-primary);
+  color: var(--raw-seinna);
   font-size: initial;
   line-height: 1.3;
   margin-top: 5px;
