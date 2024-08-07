@@ -488,7 +488,9 @@ main { overflow-x: hidden; }
   color: var(--raw-seinna);
 }
 
-.hero .btn-primary { margin-inline: auto; }
+.hero .btn-primary { margin-inline: auto;
+ color: var(--scalter);
+                   }
 
 
 
